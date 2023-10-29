@@ -1,1 +1,1 @@
-# wxWidgetCalc
+# KT_Calc
